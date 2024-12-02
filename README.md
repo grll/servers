@@ -25,6 +25,7 @@ Each MCP server is implemented with either the [Typescript MCP SDK](https://gith
 
 - **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1)
 - **[Raygun](https://github.com/MindscapeHQ/mcp-server-raygun)** - Interact with your crash reporting and real using monitoring data on your Raygun account
+- **[OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP)** - Connect many public datasets to your LLM applications in minutes
 
 ## 🚀 Getting Started
 
